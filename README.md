@@ -31,10 +31,8 @@ Utilizei IAs Generativas como StyleGAN e ferramentas de design como Adobe Creati
 ## 🧐 Processo de Criação
 Comecei definindo conceitos visuais e treinando os modelos com conjuntos de dados diversificados. Em seguida, refinei os resultados gerados, combinando habilidades humanas com a capacidade da IA.
 
-
-
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Produzido uma variedade de imagens e artes visuais que refletem a estética desejada, destacando a capacidade colaborativa entre humanos e IA.
 
 ## 💭 Reflexão (Opcional)
 O desafio de criar algo 'natty' com IA envolve encontrar o equilíbrio entre direção criativa humana e a capacidade da IA de gerar arte original e surpreendente. Essa interação dinâmica abre portas para novas formas de expressão visual.
